@@ -1,0 +1,1089 @@
+{
+    "data": [
+        {
+            "question": "Il y a tir au panier ou lancer-franc lorsqu’un joueur tient le ballon dans la ou les main(s) et le lance en l’air en direction du panier de l’adversaire.",
+            "reponses": [
+                {
+                    "text": "Vrai",
+                    "correct": true
+                },
+                {
+                    "text": "Faux",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Quand un joueur est en action de tir et qu’après avoir subi une faute il effectue une passe avec le ballon, il n’est plus considéré avoir été en action de tir.",
+            "reponses": [
+                {
+                    "text": "Vrai",
+                    "correct": true
+                },
+                {
+                    "text": "Faux",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "A10 tire à 3 pts. Le ballon a quitté ses mains et ses deux pieds sont posés au sol lorsque B9 qui a tenté de le contrer retombe sur lui. L'arbitre siffle faute à B9. La réparation sera trois lancers francs pour A10.",
+            "reponses": [
+                {
+                    "text": "Vrai",
+                    "correct": false
+                },
+                {
+                    "text": "Faux",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Le critère de la faute antisportive C4 (Un contact latéral ou par derrière commis sur le terrain de jeu sur un adversaire par un défenseur tentant d’arrêter une contre-attaque alors qu’il n’y a aucun défenseur entre le joueur attaquant et le panier de l’adversaire) s’applique jusqu’à ce que le joueur attaquant termine son action de tir",
+            "reponses": [
+                {
+                    "text": "Vrai",
+                    "correct": false
+                },
+                {
+                    "text": "Faux",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Une claquette est considérée comme une action de tir.",
+            "reponses": [
+                {
+                    "text": "Vrai",
+                    "correct": true
+                },
+                {
+                    "text": "Faux",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "A6 tire au panier en l'air. Alors qu'il a lâché le ballon, il retombe sur un pied lorsque B8 qui voulait le contrer, retombe sur lui.",
+            "reponses": [
+                {
+                    "text": "L'action de tir est terminée car le ballon a quitté les mains de A6",
+                    "correct": false
+                },
+                {
+                    "text": "L'action de tir n'est pas terminée car A6 n'a posé qu'un pied au sol",
+                    "correct": true
+                },
+                {
+                    "text": "La réparation sera une remise en jeu pour A à l'endroit le plus proche d'où la faute a été commise",
+                    "correct": false
+                },
+                {
+                    "text": "La réparation sera deux lancers francs pour A6",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "A18 tente un tir à 3 points. Après que le ballon a quitté les mains de A18, le ballon rebondit au sol dans la zone de tir à 2 points. Le ballon pénètre ensuite dans le panier.",
+            "reponses": [
+                {
+                    "text": "Aucun point n'est accordé à A18",
+                    "correct": false
+                },
+                {
+                    "text": "2 points sont accordés à A18",
+                    "correct": false
+                },
+                {
+                    "text": "3 points sont accordés à A18",
+                    "correct": true
+                },
+                {
+                    "text": "C'est le Crew-chief qui doit prendre la décision",
+                    "correct": false
+                },
+                {
+                    "text": "C'est AT qui doit prendre la décision",
+                    "correct": false
+                },
+                {
+                    "text": "C'est AK qui doit prendre la décision",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "A1 avec le ballon en main s’engage en dribble vers le panier pour tenter un tir à 2 points. A1 est victime d'une faute de B1, après quoi A1 commet une violation de marcher. Le ballon pénètre dans le panier.",
+            "reponses": [
+                {
+                    "text": "A1 est considéré en action de tir",
+                    "correct": true
+                },
+                {
+                    "text": "Le marcher de A1 doit être ignoré",
+                    "correct": false
+                },
+                {
+                    "text": "Le panier de A1 doit compter",
+                    "correct": false
+                },
+                {
+                    "text": "Le panier de A1 doit être refusé",
+                    "correct": true
+                },
+                {
+                    "text": "Une remise en jeu sera accordée à l'équipe A",
+                    "correct": false
+                },
+                {
+                    "text": "1 LF sera accordé à A1",
+                    "correct": false
+                },
+                {
+                    "text": "2 LF seront accordés à A1",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "A1 a le ballon dans les mains dans sa zone avant, démarre une action de tir et commet une charge sur B1. Dans un mouvement continu, A1 lance le ballon vers le panier et marque.",
+            "reponses": [
+                {
+                    "text": "Le panier de A1 doit compter.",
+                    "correct": false
+                },
+                {
+                    "text": "Le panier de A1 ne doit pas compter.",
+                    "correct": true
+                },
+                {
+                    "text": "1 LF supplémentaire sera accordé à A1.",
+                    "correct": false
+                },
+                {
+                    "text": "Une remise en jeu sera accordée à l'équipe B en ligne de fond au plus proche de la faute (sauf directement sous le panneau)",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "B1 est sanctionné d’une faute sur A1 (1ère faute d'équipe) qui est en action de tir au panier. Après la faute, le signal du chronomètre des tirs retentit. A1 lâche ensuite le ballon depuis la zone à 2pts qui pénètre dans le panier.",
+            "reponses": [
+                {
+                    "text": "Le panier ne doit pas compter",
+                    "correct": false
+                },
+                {
+                    "text": "Le panier doit compter",
+                    "correct": true
+                },
+                {
+                    "text": "1 LF supplémentaire sera accordé à A1",
+                    "correct": true
+                },
+                {
+                    "text": "2 LF seront accordés à A1",
+                    "correct": false
+                },
+                {
+                    "text": "Une REJ sera accordée à l'équipe A",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "A15 attrape le ballon alors qu’il termine son dribble. Il peut faire 2 pas pour s’arrêter.",
+            "reponses": [
+                {
+                    "text": "Vrai",
+                    "correct": true
+                },
+                {
+                    "text": "Faux",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "A36 drive vers le panier. Lorsqu'il saisit le ballon dans ses mains, il effectue un saut. Son premier appui est le pied droit. Il retombe ensuite sur ce même pied avant d'effectuer un tir. Les arbitres sifflent une violation. Est-ce correct ?",
+            "reponses": [
+                {
+                    "text": "Vrai",
+                    "correct": true
+                },
+                {
+                    "text": "Faux",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Le joueur A32 attrape le ballon en course à la suite d'une passe de A56 en ayant le pied gauche au sol. Il pose ensuite le pied droit et à nouveau le pied gauche pour effectuer un lay-up. Le panier est réussi. L'arbitre doit siffler une violation de marcher car A32 a effectué 3 appuis.",
+            "reponses": [
+                {
+                    "text": "Vrai",
+                    "correct": false
+                },
+                {
+                    "text": "Faux",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Quand un joueur attrape le ballon debout et à l’arrêt avec les deux pieds au sol, il définit son pied de pivot dès qu'il lève un pied. Ce sera le pied resté au sol. Pour partir en dribble, il peut lever son pied de pivot puis lâcher le ballon.",
+            "reponses": [
+                {
+                    "text": "Vrai",
+                    "correct": false
+                },
+                {
+                    "text": "Faux",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "En se déplaçant, A15 reçoit une passe. Il attrape puis lance le ballon au-dessus de la tête de B12 et le contourne. Le ballon touche le terrain de jeu et A15 continue à progresser vers l'avant en dribblant. Cette action d'A15 est légale.",
+            "reponses": [
+                {
+                    "text": "Oui",
+                    "correct": true
+                },
+                {
+                    "text": "Non",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Alors qu’il veut récupérer un ballon, A85 se jette au sol, le saisit et le contrôle tout en glissant. Il tente de se relever tout en dribblant et finit par faire une passe à A40.",
+            "reponses": [
+                {
+                    "text": "A85 n'a commis aucune violation",
+                    "correct": true
+                },
+                {
+                    "text": "A85 a commis une violation de marcher en glissant avec le ballon",
+                    "correct": false
+                },
+                {
+                    "text": "A85 a commis une violation de marcher en tentant de se relever avec le ballon",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "A48 reçoit le ballon à l'arrêt (2 pieds au sol), il effectue un départ direct en dribble. A48 peut:",
+            "reponses": [
+                {
+                    "text": "Choisir son pied de pivot",
+                    "correct": true
+                },
+                {
+                    "text": "Pivoter puis sauter pour passer à A15",
+                    "correct": true
+                },
+                {
+                    "text": "Pivoter puis dribbler en lâchant le ballon avant de lever son pied de pivot",
+                    "correct": true
+                },
+                {
+                    "text": "Pivoter puis sauter et tirer en décollant les deux pieds",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Alors qu’il est allongé au sol, A8 prend le contrôle du ballon. Les actions suivantes de A8 sont légales.",
+            "reponses": [
+                {
+                    "text": "Passe le ballon à A4",
+                    "correct": true
+                },
+                {
+                    "text": "Commence un dribble alors qu’il est encore allongé au sol",
+                    "correct": true
+                },
+                {
+                    "text": "Essaie de se relever alors qu’il tient toujours le ballon",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Le joueur B5 intercepte une passe et attrape le ballon en l’air. Il retombe au sol en deux temps (pied gauche, puis pied droit). Il part en dribble en avançant son pied gauche avant que le ballon ait quitté sa main.",
+            "reponses": [
+                {
+                    "text": "Le pied de pivot est le pied gauche",
+                    "correct": true
+                },
+                {
+                    "text": "Le pied de pivot est le pied droit",
+                    "correct": false
+                },
+                {
+                    "text": "L’arbitre doit laisser jouer",
+                    "correct": false
+                },
+                {
+                    "text": "L’arbitre doit siffler marcher",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Alors qu’il tient le ballon à 2 mains dans sa zone arrière, A1 tombe sur le terrain de jeu et son mouvement le fait glisser brièvement au sol.",
+            "reponses": [
+                {
+                    "text": "C’est une action légale de A1",
+                    "correct": true
+                },
+                {
+                    "text": "C’est une action illégale de A1",
+                    "correct": false
+                },
+                {
+                    "text": "Si l'action est illégale, l'arbitre doit rendre le ballon à l'équipe B avec 24sec au chronomètre des tirs",
+                    "correct": false
+                },
+                {
+                    "text": "Si l'action est illégale, l'arbitre doit rendre le ballon à l'équipe B avec 14sec au chronomètre des tirs",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "A7 arrête son dribble et tire au panier, le ballon ne touche ni l’anneau, ni le panneau. A7 reprend son propre rebond. A7 peut-il reprendre son dribble ?",
+            "reponses": [
+                {
+                    "text": "Oui",
+                    "correct": true
+                },
+                {
+                    "text": "Non",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "A1 n’a pas encore dribblé et se tient arrêté quand il lance le ballon contre le panneau, le reprend à nouveau avant que n’importe quel autre joueur ait touché le ballon, puis part en dribble. Cette action est légale.",
+            "reponses": [
+                {
+                    "text": "Vrai",
+                    "correct": true
+                },
+                {
+                    "text": "Faux",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "A5 effectue une remise en jeu en zone avant. Lorsque A6 reçoit le ballon sur le terrain, A12 est dans la zone restrictive adverse depuis 4s. A12 doit-il être sanctionné pour une violation à la règle des 3s ?",
+            "reponses": [
+                {
+                    "text": "Oui",
+                    "correct": false
+                },
+                {
+                    "text": "Non",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Le joueur B8 dribble en zone arrière au moment où l’arbitre siffle violation à la règle des 8s. L’appareil des 24s indique qu'il reste 17 secondes à jouer pour l’équipe B. L’arbitre doit-il maintenir sa décision ?",
+            "reponses": [
+                {
+                    "text": "Oui",
+                    "correct": true
+                },
+                {
+                    "text": "Non",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "B6 dribble dans sa zone avant et arrête son dribble. A5 son défenseur à une distance d'environ deux mètres reste face à lui. B6 garde le ballon cinq secondes dans ses mains, alors l'arbitre siffle violation. L'arbitre a pris la bonne décision.",
+            "reponses": [
+                {
+                    "text": "Oui",
+                    "correct": false
+                },
+                {
+                    "text": "Non",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Quelques tolérances à la règle des trois secondes sont accordées au joueur qui :",
+            "reponses": [
+                {
+                    "text": "Essaie de sortir de la zone restrictive",
+                    "correct": true
+                },
+                {
+                    "text": "Ne fait pas action de jeu",
+                    "correct": false
+                },
+                {
+                    "text": "Est dans la zone restrictive, mais son coéquipier est en action de tir",
+                    "correct": true
+                },
+                {
+                    "text": "Dribble pour aller tirer après y être resté moins de trois secondes",
+                    "correct": true
+                },
+                {
+                    "text": "N'a qu'un seul pied dans la zone restrictive",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "La période de 8 secondes pour l'équipe A expire et une violation doit être sifflée au moment où",
+            "reponses": [
+                {
+                    "text": "L’équipe A contrôle le ballon dans sa zone arrière",
+                    "correct": true
+                },
+                {
+                    "text": "Le ballon est en l'air lors d'une passe de A1 effectuée depuis sa zone arrière vers sa zone avant",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "A1 termine son dribble puis lance délibérément le ballon sur la jambe de B1. A1 reprend le ballon puis commence un nouveau dribble.",
+            "reponses": [
+                {
+                    "text": "Cette action est légale",
+                    "correct": false
+                },
+                {
+                    "text": "Violation de reprise de dribble",
+                    "correct": true
+                },
+                {
+                    "text": "Violation de pied",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "A1 dribble puis fait un arrêt légal. Après quoi, A1 perd alors l'équilibre et, sans déplacer son pied de pivot, A1 touche le sol deux fois avec le ballon tout en tenant le ballon dans la ou les main(s).",
+            "reponses": [
+                {
+                    "text": "Cette action est légale",
+                    "correct": true
+                },
+                {
+                    "text": "Violation de reprise de dribble",
+                    "correct": false
+                },
+                {
+                    "text": "Violation de marcher",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "L’équipe a amené le ballon dans sa zone avant et le décompte des 8sec s'arrête lorsque",
+            "reponses": [
+                {
+                    "text": "Le ballon, qui n’est contrôlé par aucun joueur, touche la zone avant",
+                    "correct": true
+                },
+                {
+                    "text": "Le ballon touche ou est légalement touché par un attaquant qui a les deux pieds entièrement en contact avec sa zone avant",
+                    "correct": true
+                },
+                {
+                    "text": "Le ballon touche ou est légalement touché par un défenseur qui a une partie de son corps en contact avec sa zone arrière.",
+                    "correct": true
+                },
+                {
+                    "text": "Le ballon touche un arbitre ayant une partie de son corps en contact avec la zone avant de l’équipe qui contrôle le ballon",
+                    "correct": true
+                },
+                {
+                    "text": "Lors d’un dribble de la zone arrière vers la zone avant, les deux pieds du dribbleur et le ballon sont en entièrement contact avec la zone avant7",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "L'arbitre pénètre dans le cercle central pour administrer l'entre-deux de début de rencontre entre A11 et B36. Après que le ballon a été lancé mais avant qu'il ne soit légalement tapé, B20 pousse A23 pour prendre une meilleure position. B20 doit être sanctionné d'une faute personnelle.",
+            "reponses": [
+                {
+                    "text": "Oui",
+                    "correct": true
+                },
+                {
+                    "text": "Non",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Dans la technique individuelle de l'arbitre, lorsque l'arbitre prend la décision de ne pas siffler sur une action, il doit montrer le signal de \"laisser jouer\"",
+            "reponses": [
+                {
+                    "text": "Vrai",
+                    "correct": false
+                },
+                {
+                    "text": "Faux",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Un joueur qui pose un écran peut se déplacer latéralement ou vers l'arrière sans être responsable du contact ?",
+            "reponses": [
+                {
+                    "text": "Oui",
+                    "correct": false
+                },
+                {
+                    "text": "Non",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "A8 saute pour tirer au panier. Alors qu'il est en l'air, B10 vient se placer droit devant lui. A8 retombe sur B10. L'arbitre siffle faute à A8. L'arbitre a eu raison.",
+            "reponses": [
+                {
+                    "text": "Oui",
+                    "correct": false
+                },
+                {
+                    "text": "Non",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Avec 2s à jouer dans le 1er QT, B1 est sanctionné d’une faute sur A1. C’est la 5ème faute de l’équipe B dans le QT. L’équipe A bénéficie par erreur d’une remise en jeu au lieu de 2 LF pour A1. A2 qui effectue la remise en jeu passe le ballon à A3 et le QT se termine. Pendant l’intervalle de jeu, les arbitres reconnaissent l’erreur : A1 aurait dû bénéficier de 2 LF. La flèche de possession est en faveur de l’équipe A. Les arbitres ont raison de faire tirer 2 LF avant le début de 2ème QT sans alignement.",
+            "reponses": [
+                {
+                    "text": "Oui",
+                    "correct": true
+                },
+                {
+                    "text": "Non",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Le joueur B34 vient de commettre sa 5ème faute. Il doit quitter le terrain :",
+            "reponses": [
+                {
+                    "text": "Et le remplacement doit être effectué immédiatement et au maximum sous 30 secondes",
+                    "correct": true
+                },
+                {
+                    "text": "Et le remplacement doit être effectué au maximum sous 1 minute",
+                    "correct": false
+                },
+                {
+                    "text": "Et se rendre directement vers son banc d'équipe",
+                    "correct": true
+                },
+                {
+                    "text": "Et se rendre directement vau vestiaire",
+                    "correct": false
+                },
+                {
+                    "text": "Et se présenter à l'arbitre",
+                    "correct": false
+                },
+                {
+                    "text": "Et se présenter aux OTM",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Le cylindre est l'espace situé au-dessus du joueur délimité par :",
+            "reponses": [
+                {
+                    "text": "à l'avant par les bras",
+                    "correct": false
+                },
+                {
+                    "text": "à l'avant par les paumes des mains",
+                    "correct": true
+                },
+                {
+                    "text": "à l'arrière par les fesses",
+                    "correct": true
+                },
+                {
+                    "text": "à l'arrière par le dos",
+                    "correct": false
+                },
+                {
+                    "text": "sur les côtés, par les faces externes des bras",
+                    "correct": true
+                },
+                {
+                    "text": "sur les côtés, par les faces externes des jambes",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Un défenseur a établi une position légale de défense quand :",
+            "reponses": [
+                {
+                    "text": "Il est fléchi",
+                    "correct": false
+                },
+                {
+                    "text": "Il fait face à son adversaire",
+                    "correct": true
+                },
+                {
+                    "text": "Il est à moins d'un mètre",
+                    "correct": false
+                },
+                {
+                    "text": "Il a les deux pieds au sol",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "B88 est sanctionné d’une faute sur A11 qui est en action de tir au panier à 2 points. Après la faute, le signal du chronomètre de jeu retentit (fin de QT). Le ballon pénètre dans le panier. Les arbitres doivent :",
+            "reponses": [
+                {
+                    "text": "Accorder le panier",
+                    "correct": true
+                },
+                {
+                    "text": "Refuser le panier",
+                    "correct": false
+                },
+                {
+                    "text": "Donner un LF à tirer à A11",
+                    "correct": true
+                },
+                {
+                    "text": "Donner 2 lancers-francs à A11",
+                    "correct": false
+                },
+                {
+                    "text": "Donner la remise en jeu pour l'équipe A en ligne de touche",
+                    "correct": false
+                },
+                {
+                    "text": "Annuler la faute",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "A48 dribble vers le panier et entre en contact illégalement avec le torse de B55 qui est en position légale de défense. Au même moment, B55 exagère un mouvement pour donner l’impression qu’il a subi une faute de A48. Les arbitres doivent :",
+            "reponses": [
+                {
+                    "text": "Ignorer le contact de A48 sans rien signaler",
+                    "correct": false
+                },
+                {
+                    "text": "Siffler une faute offensive à A48",
+                    "correct": true
+                },
+                {
+                    "text": "Ignorer l'attitude théâtrale de B55",
+                    "correct": true
+                },
+                {
+                    "text": "Donner un avertissement à B55 (simulation) pour son attitude théâtrale",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "A la suite d’une faute antisportive (ou disqualifiante), le jeu doit reprendre par une remise en jeu depuis le point de remise en jeu dans la zone avant de cette équipe, à moins qu’établi autrement dans les règles.",
+            "reponses": [
+                {
+                    "text": "Oui",
+                    "correct": true
+                },
+                {
+                    "text": "Non",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "A13 dribble dans sa zone avant lorsque B81 tape le ballon de ses mains et le dévie vers la zone avant de l'équipe B. B81 court après le ballon qui roule vers le panier de son adversaire et, avant que B81 ne prenne le contrôle de celui-ci, A13 le pousse par derrière en jouant le ballon, alors qu'il n’y a pas d’adversaire entre B81, le ballon et le panier adverse. Est-ce une faute antisportive ?",
+            "reponses": [
+                {
+                    "text": "Vrai",
+                    "correct": true
+                },
+                {
+                    "text": "Faux",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Terminant sa contre-attaque, A1 a le ballon dans les mains dans son action de tir lorsque B1 provoque un contact sur le bras de A1 par derrière, en essayant de contrer le ballon sur le tir",
+            "reponses": [
+                {
+                    "text": "Faute personnelle de B1",
+                    "correct": true
+                },
+                {
+                    "text": "Faute antisportive de B1",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Avec 53 secondes sur le chronomètre de jeu dans le 4ème quart-temps, A1 a le ballon dans les mains ou à sa disposition pour effectuer une remise en jeu quand A2 provoque un contact sur B2 sur le terrain de jeu. Une faute est sifflée contre A2.",
+            "reponses": [
+                {
+                    "text": "Faute personnelle de A2",
+                    "correct": true
+                },
+                {
+                    "text": "Faute antisportive de A2",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Avec 1’04’’ sur le chronomètre de jeu dans le 4ème quart-temps de la rencontre, le score étant de : A 83 – B 80, le ballon a quitté les mains de A1 sur une remise en jeu, quand B2 provoque un contact sur A2, qui est sur le point de recevoir le ballon. Une faute est sifflée à B2. C’est la seconde faute de l’équipe B dans le quart-temps.",
+            "reponses": [
+                {
+                    "text": "Faute personnelle de B2",
+                    "correct": true
+                },
+                {
+                    "text": "Faute antisportive de B2",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Un joueur-entraineur principal doit être disqualifié s’il est sanctionné des fautes suivantes :",
+            "reponses": [
+                {
+                    "text": "1 faute technique en tant qu’entraineur principal enregistrée ‘C1’ et 1 faute antisportive",
+                    "correct": true
+                },
+                {
+                    "text": "1 faute antisportive et une faute technique en tant que joueur",
+                    "correct": true
+                },
+                {
+                    "text": "2 fautes antisportives en tant que joueur",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "A1 est sanctionné de sa 5ème faute. C’est la 2ème faute de l’équipe A dans le quart-temps. En se rendant sur son banc, A1 bouscule volontairement B1. Puis B1 bouscule volontairement A1 à son tour.",
+            "reponses": [
+                {
+                    "text": "A1 est devenu un joueur éliminé après sa faute personnelle.",
+                    "correct": true
+                },
+                {
+                    "text": "A1 doit être sanctionné d'une faute antisportive, notée U2 (ou Uc), pour avoir bousculé volontairement B1",
+                    "correct": false
+                },
+                {
+                    "text": "A1 doit être sanctionné d'une faute technique, notée T1 (ou Tc), pour avoir bousculé volontairement B1",
+                    "correct": false
+                },
+                {
+                    "text": "L'entraineur A doit être sanctionné d'une faute technique, notée B1 (ou Bc)",
+                    "correct": true
+                },
+                {
+                    "text": "L'équipe A ne doit pas être sanctionnée pour le comportement de A1 après sa 5e faute.",
+                    "correct": false
+                },
+                {
+                    "text": "B1 doit être sanctionné d'une faute antisportive, notée U2 (ou Uc), pour avoir bousculé volontairement A1",
+                    "correct": true
+                },
+                {
+                    "text": "B1 doit être sanctionné d'une faute technique, notée T1 (ou Tc), pour avoir bousculé volontairement A1",
+                    "correct": false
+                },
+                {
+                    "text": "L'équipe B ne doit pas être sanctionnée pour le comportement de B1",
+                    "correct": false
+                },
+                {
+                    "text": "C'est un cas de double faute, les réparations se compensent.",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Un avertissement officiel est donné à un joueur pour une action ou un comportement qui, s’il est répété, peut conduire à une faute technique. Cet avertissement doit également être communiqué à l’entraîneur de l’équipe en question et s’applique aussi aux membres de l’équipe pour toute action similaire pour le reste de la rencontre.",
+            "reponses": [
+                {
+                    "text": "Oui",
+                    "correct": true
+                },
+                {
+                    "text": "Non",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Après avoir été sanctionné d'une première faute technique en première période, A21 est pénalisé d'une seconde faute technique. L'arbitre doit le disqualifier pour le reste de la rencontre. La réparation doit-elle être : 1 lancer franc pour la faute technique suivi de 2 lancers francs + possession pour la disqualification ?",
+            "reponses": [
+                {
+                    "text": "Oui",
+                    "correct": false
+                },
+                {
+                    "text": "Non",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "A1 dribble vers le panier lorsque B1 tombe en arrière sur le terrain de jeu sans qu’un contact ne se soit produit entre ces joueurs, ou un contact négligeable de A1 est suivi d'une attitude théâtrale de B1. Un avertissement a déjà été communiqué à l’ensemble des joueurs de l’équipe B par l’intermédiaire de leur entraîneur principal.",
+            "reponses": [
+                {
+                    "text": "B1 doit être sanctionné d’une faute technique",
+                    "correct": true
+                },
+                {
+                    "text": "B1 doit être averti car ce n’était pas lui impliqué lors de la première situation ayant conduit à un avertissement",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "A10 demande un remplacement pour le joueur A4. Lors du ballon mort suivant, et avant qu'un arbitre ait fait le geste de remplacement, une faute technique est sifflée à A4. La faute doit être considérée comme une faute de joueur.",
+            "reponses": [
+                {
+                    "text": "Oui",
+                    "correct": true
+                },
+                {
+                    "text": "Non",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Pendant un intervalle de jeu entre la 1ère et la 2ème période, B67 qui était remplaçant s'adresse de manière irrespectueuse à un arbitre. L'entraîneur B sera sanctionné d'une faute technique enregistrée comme «B1».",
+            "reponses": [
+                {
+                    "text": "Vrai",
+                    "correct": false
+                },
+                {
+                    "text": "Faux",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "B12 est sanctionné d’une faute sur A81 qui est dans son action de tir manqué à 2 points. Après le 1er des 2 lancers-francs de A81, A23 qui provoque B8 est sanctionné d’une faute technique. L'équipe B demande alors le remplacement de B6 par B58.",
+            "reponses": [
+                {
+                    "text": "Le remplacement ne doit être accordé que si B58 remplace B6 pour tirer le lancer-franc de la faute technique",
+                    "correct": true
+                },
+                {
+                    "text": "Le LF de la FT pour l'équipe B peut être tiré par n'importe quel joueur de l'équipe B y compris par B58 qui vient de rentrer en jeu",
+                    "correct": false
+                },
+                {
+                    "text": "Le LF tiré par un joueur B s'effectue entre les 2 LF d'A81",
+                    "correct": true
+                },
+                {
+                    "text": "Le LF tiré par un joueur B s'effectue après le 2ème LF d'A81",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Après une remise en jeu suite à un panier encaissé par l'équipe A, A15 dribble depuis 6 secondes dans sa zone arrière quand A23 et B29, placés en zone avant, sont chacun sanctionnés d’une faute technique.",
+            "reponses": [
+                {
+                    "text": "L'arbitre doit faire tirer un LF à chaque équipe, puis le jeu reprendra là où il s'est arrêté",
+                    "correct": false
+                },
+                {
+                    "text": "L'arbitre doit annuler les sanctions et reprendre le jeu par une remise en jeu en zone arrière par l'équipe A avec 24 secondes à jouer",
+                    "correct": false
+                },
+                {
+                    "text": "L'arbitre doit annuler les sanctions et reprendre le jeu par une remise en jeu en zone arrière par l'équipe A avec 18 secondes à jouer et 2 secondes pour l'équipe A pour amener le ballon en zone avant",
+                    "correct": true
+                },
+                {
+                    "text": "L'arbitre doit annuler les sanctions et reprendre le jeu par une remise en jeu en zone arrière par l'équipe A avec 18 secondes à jouer et 8 secondes pour l'équipe A pour amener le ballon en zone avant",
+                    "correct": false
+                },
+                {
+                    "text": "L'arbitre doit annuler les sanctions et reprendre le jeu par une remise en jeu en zone avant par l'équipe A avec 14 secondes à jouer",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Le chronomètre de jeu affiche 3mn 46 dans le 3ème QT. B12 commet sa 5ème faute sur A8. Les OTM l’informe qu’il ne peut plus prendre part au jeu. Alors qu’il reste 5mn 20 dans le 4ème QT, B12 revient en jeu lors d’un remplacement. A15 commet une faute sur B12 qui tire au panier et marque. Les OTM s’aperçoivent de la participation illégale de B12.",
+            "reponses": [
+                {
+                    "text": "Le joueur B12 doit quitter immédiatement le terrain",
+                    "correct": true
+                },
+                {
+                    "text": "Un panier à 2 points sera accordé à B12",
+                    "correct": true
+                },
+                {
+                    "text": "Une faute technique T1 sera sifflée au joueur B12",
+                    "correct": false
+                },
+                {
+                    "text": "Une faute technique B1 doit être imputée au coach B",
+                    "correct": true
+                },
+                {
+                    "text": "L’équipe A bénéficiera d’1 lancer-franc",
+                    "correct": false
+                },
+                {
+                    "text": "La procédure de possession alternée s'applique",
+                    "correct": false
+                },
+                {
+                    "text": "Remise en jeu comme après tout panier marqué",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Une faute disqualifiante consiste en toute action antisportive flagrante de la part d’un joueur ou de toute autre personne autorisée à s’assoir sur le banc d’équipe. Ces fautes disqualifiantes peuvent résulter :",
+            "reponses": [
+                {
+                    "text": "D’actions dirigées vers toute personne de l’équipe adverse, les arbitres, les officiels de table ou le commissaire.",
+                    "correct": true
+                },
+                {
+                    "text": "D’actions dirigées contre tout membre de sa propre équipe",
+                    "correct": true
+                },
+                {
+                    "text": "D’actions endommageant intentionnellement l’équipement de la rencontre",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "A1 et B1 commencent une bagarre sur le terrain. A ce moment, les remplaçants A6 et B6 entrent sur le terrain sans s’impliquer dans la bagarre. A7 entre également sur le terrain et frappe B1 au visage avec le poing.",
+            "reponses": [
+                {
+                    "text": "A1 et B1 doivent être disqualifiés et leurs fautes doivent être enregistrées ‘Dc’",
+                    "correct": true
+                },
+                {
+                    "text": "A7 doit être disqualifié, et sa faute enregistrée ‘D2’. Sur la feuille de marque, les cases de fautes restant de A7 doivent chacune être remplies d’un ‘F’.",
+                    "correct": true
+                },
+                {
+                    "text": "A7 doit être disqualifié, et sa faute enregistrée ‘D’. Sur la feuille de marque, les cases de fautes restant de A7 doivent chacune être remplies d’un ‘F’.",
+                    "correct": false
+                },
+                {
+                    "text": "A6 et B6 ne doivent pas être disqualifiés s'ils aident à séparer les joueurs A1 et B1",
+                    "correct": false
+                },
+                {
+                    "text": "A6 et B6 doivent être disqualifiés pour être entrés sur le terrain de jeu pendant une bagarre, et un ‘D’ doit être enregistré à leur compte. Sur la feuille de marque, les cases de fautes restant de A6 et B6 doivent être chacune remplies d’un ‘F’.",
+                    "correct": true
+                },
+                {
+                    "text": "Les entraineurs principaux A et B doivent chacun être sanctionnés d’une faute technique enregistrée ‘Bc ‘.",
+                    "correct": true
+                },
+                {
+                    "text": "Les entraineurs principaux A et B doivent chacun être sanctionnés d’une faute technique enregistrée ‘B2 ‘.",
+                    "correct": false
+                },
+                {
+                    "text": "Les entraineurs principaux peuvent pénétrer sur le terrain pour séparer A1 et B1, et ne seront pas sanctionnés s'ils aident les arbitres",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Quand les arbitres rapportent les fautes à la table de marque, ils peuvent marcher en annonçant les fautes, à condition de renforcer la communication en utilisant une voix forte.",
+            "reponses": [
+                {
+                    "text": "Oui",
+                    "correct": false
+                },
+                {
+                    "text": "Non",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Les paniers sont toujours validés par le crew-chief de la rencontre.",
+            "reponses": [
+                {
+                    "text": "Vrai",
+                    "correct": false
+                },
+                {
+                    "text": "Faux",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Lors d'une transition de AT en zone 6, AK garde la responsabilité des tirs à 3 points dans l'angle de la zone 6.",
+            "reponses": [
+                {
+                    "text": "Vrai",
+                    "correct": true
+                },
+                {
+                    "text": "Faux",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Lord d'un tir au panier, AK doit ...",
+            "reponses": [
+                {
+                    "text": "Se rapprocher de la ligne médiane, pour anticiper une contre attaque",
+                    "correct": false
+                },
+                {
+                    "text": "Se rapprocher de la ligne à 3 points, pour aider AT à juger le rebond",
+                    "correct": true
+                }
+            ]
+        }
+    ]
+}

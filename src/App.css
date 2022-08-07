@@ -1,38 +1,151 @@
-.App {
-  text-align: center;
+* {
+    background-color: #363a46;
+    margin: 0px;
+    box-sizing: border-box;
+    color: red;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.div-responses {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.div-question {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.div-question-txt p {
+    color: #cacfdb;
+    font-size: 22px;
 }
 
-.App-link {
-  color: #61dafb;
+.div-score {
+    text-align: center;
+    font-size: 40px;
+    margin: 20px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.div-score p {
+    color: #93979e;
+}
+
+.separator {
+    margin: 5px;
+    width: 300px;
+    border-bottom: solid #cacfdb 1px;
+    margin-bottom: 50px;
+}
+
+.btn-responses {
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 20px;
+    min-width: 700px;
+    max-width: 700px;
+    min-height: 50px;
+    margin: 15px;
+    padding: 10px;
+    color: #ffffff;
+    font-family: Brush Script MT;
+    font-size: 18px;
+    font-weight: 100;
+    background-color: transparent;
+    -webkit-box-shadow: 1px 1px 20px 0 #444a5a;
+    -moz-box-shadow: 1px 1px 20px 0 #444a5a;
+    box-shadow: 1px 1px 20px 0 #444a5a;
+    text-shadow: 1px 1px 20px #444a5a;
+    border: inset #c4bebe 3px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+
+.correct::after {
+    content: " ✅";
+}
+
+.incorrect::after {
+    content: " ❌";
+}
+
+.valid {
+    background-color: #538563;
+}
+
+.response-selected {
+    color: #444a5a;
+    background-color: #ffffff;
+    -webkit-box-shadow: 1px 1px 20px 0 #444a5a;
+    -moz-box-shadow: 1px 1px 20px 0 #444a5a;
+    box-shadow: 1px 1px 20px 0 #444a5a;
+    text-shadow: 1px 1px 20px #444a5a;
+    border: inset #c4bebe 3px;
+    text-decoration: none;
+}
+
+.btn-send {
+    position: absolute;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 20px;
+    min-width: 200px;
+    min-height: 50px;
+    bottom: 100px;
+    color: #ffffff;
+    font-family: Brush Script MT;
+    font-size: 18px;
+    font-weight: 100;
+    background-color: transparent;
+    -webkit-box-shadow: 1px 1px 20px 0 #444a5a;
+    -moz-box-shadow: 1px 1px 20px 0 #444a5a;
+    box-shadow: 1px 1px 20px 0 #444a5a;
+    text-shadow: 1px 1px 20px #444a5a;
+    border: inset #c4bebe 3px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+    .div-question-txt p {
+        font-size: 16px;
+    }
+    .div-score {
+        font-size: 40px;
+        margin: 20px;
+    }
+    .separator {
+        margin: 5px;
+        width: 300px;
+        margin-bottom: 25px;
+    }
+    .btn-responses {
+        -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+        border-radius: 20px;
+        min-width: 300px;
+        max-width: 300px;
+        min-height: 50px;
+        margin: 5px;
+        padding: 10px;
+        font-size: 14px;
+    }
+
+    .btn-send {
+		position: relative;
+        -webkit-border-radius: 100px;
+        -moz-border-radius: 100px;
+        border-radius: 20px;
+        min-width: 200px;
+        min-height: 50px;
+		margin-top: 10px;
+		bottom: 0;
+        font-size: 18px;
+    }
 }
