@@ -9,6 +9,7 @@ class Question extends React.Component {
         questions.map((elem, index) => {
             elem.id = index;
             elem.score = 0;
+            elem.alreadyGuess = false;
             return elem;
         });
         questions.forEach((elem) => {
@@ -98,26 +99,25 @@ class Question extends React.Component {
                 this.state.selectedResponses.length ===
             0;
         let newQuestions = this.state.questions;
+        let alreadyGuess = false;
         for (let i = 0; i < newQuestions.length; i++) {
-            console.log(this.state.random)
             if (this.state.random === i && correct) {
-                console.log(newQuestions[i]);
                 newQuestions[i].score = 1;
+                alreadyGuess = newQuestions[i].alreadyGuess;
+                newQuestions[i].alreadyGuess = true;
             } else newQuestions[i].score = newQuestions[i].score + 2;
         }
         setTimeout(() => {
             this.setState({ check: false, questions: newQuestions });
             if (correct) this.props.updateScore(100);
             else this.props.updateScore(-200);
+            if (!alreadyGuess && correct) this.props.updateCorrect();
             let newQuestion = this.getQuestion();
             this.setState({
                 question: newQuestion.question,
                 random: newQuestion.random,
                 selectedResponses: [],
             });
-            this.state.questions.forEach((elem) =>
-                console.log(elem.id, elem.score)
-            );
         }, 1000);
     }
     render() {
@@ -140,7 +140,9 @@ class Score extends React.Component {
     render() {
         return (
             <div className="div-score">
-                <p>Score : {this.props.score}</p>
+                <p>
+                    Score : {this.props.score} ({this.props.correct}/61)
+                </p>
             </div>
         );
     }
@@ -149,17 +151,27 @@ class Score extends React.Component {
 class App extends React.Component {
     constructor(props) {
         super(props);
-        this.state = { score: 0 };
+        this.state = { score: 0, correct: 0 };
         this.updateScore = this.updateScore.bind(this);
+        this.updateCorrect = this.updateCorrect.bind(this);
     }
     updateScore(n) {
         this.setState({ score: this.state.score + n });
     }
+    updateCorrect() {
+        this.setState({ correct: this.state.correct + 1 });
+    }
     render() {
         return (
             <div>
-                <Score score={this.state.score}></Score>
-                <Question updateScore={this.updateScore}></Question>
+                <Score
+                    score={this.state.score}
+                    correct={this.state.correct}
+                ></Score>
+                <Question
+                    updateScore={this.updateScore}
+                    updateCorrect={this.updateCorrect}
+                ></Question>
             </div>
         );
     }
