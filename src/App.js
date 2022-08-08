@@ -109,8 +109,8 @@ class Question extends React.Component {
         }
         setTimeout(() => {
             this.setState({ check: false, questions: newQuestions });
-            if (correct) this.props.updateScore(100);
-            else this.props.updateScore(-200);
+            if (correct) this.props.updateScore(5);
+            else this.props.updateScore(-10);
             if (!alreadyGuess && correct) this.props.updateCorrect();
             let newQuestion = this.getQuestion();
             this.setState({
