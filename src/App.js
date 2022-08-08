@@ -6,36 +6,52 @@ class Question extends React.Component {
     constructor(props) {
         super(props);
         let questions = data.data;
-        questions.map((elem, index) => (elem.id = index));
+        questions.map((elem, index) => {
+            elem.id = index;
+            elem.score = 0;
+            return elem;
+        });
         questions.forEach((elem) => {
             elem.reponses.map((elem, index) => (elem.id = index));
         });
-        let question = JSON.parse(
-            JSON.stringify(
-                questions[Math.floor(Math.random() * questions.length)]
-            )
-        );
+        let random = Math.floor(Math.random() * questions.length);
+        let question = JSON.parse(JSON.stringify(questions[random]));
         question.reponses.map((e) => (e.selected = false));
         this.state = {
             selectedResponses: [],
             questions: data.data,
             question: question,
             check: false,
+            random: random,
         };
         this.handleButton = this.handleButton.bind(this);
         this.handleValidation = this.handleValidation.bind(this);
         this.getClassName = this.getClassName.bind(this);
+        this.getQuestion = this.getQuestion.bind(this);
     }
     getQuestion() {
+        let random = Math.random();
+        let randomIndex = 0;
+        let questions = this.state.questions;
+        let proba = [];
+        let sum = questions.reduce((acc, elem) => acc + elem.score, 0);
+        for (let i = 0; i < questions.length; i++) {
+            let prob =
+                (proba[i - 1] ? proba[i - 1] : 0) + questions[i].score / sum;
+            proba.push(Math.min(1, prob));
+        }
+        console.log(proba, random);
+        for (let i = 0; i < proba.length; i++) {
+            if (proba[i] > random) {
+                randomIndex = i;
+                break;
+            }
+        }
         let question = JSON.parse(
-            JSON.stringify(
-                this.state.questions[
-                    Math.floor(Math.random() * this.state.questions.length)
-                ]
-            )
+            JSON.stringify(this.state.questions[randomIndex])
         );
         question.reponses.map((e) => (e.selected = false));
-        return question;
+        return { question: question, random: randomIndex };
     }
     getClassName(correct, selected) {
         let className = "btn-responses";
@@ -81,14 +97,27 @@ class Question extends React.Component {
                     .length -
                 this.state.selectedResponses.length ===
             0;
+        let newQuestions = this.state.questions;
+        for (let i = 0; i < newQuestions.length; i++) {
+            console.log(this.state.random)
+            if (this.state.random === i && correct) {
+                console.log(newQuestions[i]);
+                newQuestions[i].score = 1;
+            } else newQuestions[i].score = newQuestions[i].score + 2;
+        }
         setTimeout(() => {
-            this.setState({ check: false });
+            this.setState({ check: false, questions: newQuestions });
             if (correct) this.props.updateScore(100);
             else this.props.updateScore(-200);
+            let newQuestion = this.getQuestion();
             this.setState({
-                question: this.getQuestion(),
+                question: newQuestion.question,
+                random: newQuestion.random,
                 selectedResponses: [],
             });
+            this.state.questions.forEach((elem) =>
+                console.log(elem.id, elem.score)
+            );
         }, 1000);
     }
     render() {
