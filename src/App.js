@@ -141,7 +141,7 @@ class Score extends React.Component {
         return (
             <div className="div-score">
                 <p>
-                    Score : {this.props.score} ({this.props.correct}/61)
+                    Score : {this.props.score} ({this.props.correct}/160)
                 </p>
             </div>
         );
