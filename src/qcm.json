@@ -1084,6 +1084,1298 @@
                     "correct": true
                 }
             ]
+        },
+        {
+            "question": "Si un attaquant est défendu de près en zone 3, l'arbitre de queue doit se positionner afin d'avoir l'espace entre l'attaquant et le défenseur. Si une prise à deux se produit, AK est autorisé à traverser l'axe panier-panier : ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "AK siffle un marcher d'un attaquant alors qu'il entamait son action de tir. AT siffle également,\nmais une faute simple du défenseur. Comme la faute a un degré plus important que la violation, on ignore le marcher et AT devra annoncer la faute face à la table de marque : ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Sur une contre-attaque, la transition AK-AT doit se faire en trottinant, quitte à s'arrêter pour\njuger la finalité de l'action : ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Au 2°QT, B10 prend un tir à mi-distance en zone 3/4. AK n'arrive pas à déterminer si le tir est\nà 2 ou 3 points. Le panier est marqué. Dans le doute AK accorde à 2 points. L'entraineur A demande un TM qui lui est accordé. AT se dirige vers AK pour lui annoncer de manière sûre que le tir était à 3 points. AK change sa décision et informe les OTM de la nouvelle validité du tir. Les  arbitres communiquent cette information aux deux entraineurs. Cette situation vous semble-t- elle :  ",
+            "reponses": [
+                {
+                    "text": "BIEN GÉRÉE",
+                    "correct": false
+                },
+                {
+                    "text": "MAL GÉRÉE",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Un tir au panier ou un lancer-franc prend fin lorsque le ballon n'a plus la possibilité de\npénétrer dans le panier. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "B15 prend un tir à 2 points. Alors que le ballon est en l'air, le signal de la fin du 3°QT retentit.\nA10 contre légalement le tir de B15. Les arbitres doivent-ils accorder le panier ? ",
+            "reponses": [
+                {
+                    "text": "OUI",
+                    "correct": false
+                },
+                {
+                    "text": "NON",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "\nA12 manque son tir. A8 saute pour prendre le rebond et est victime d'une faute de B20 alors qu'il est en l'air. A8 retombe au sol et immédiatement tente un tir qui est marqué. L'arbitre doit-il accorder le panier ? ",
+            "reponses": [
+                {
+                    "text": "OUI",
+                    "correct": false
+                },
+                {
+                    "text": "NON",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "A23 commence son action de tir lorsqu'il est victime d'une faute de B4. L'arbitre siffle. A23\ncontinue son mouvement continu vers le cercle. Le ballon touche l'anneau et B10 le chasse. L'arbitre doit-il accorder le panier ? ",
+            "reponses": [
+                {
+                    "text": "OUI",
+                    "correct": true
+                },
+                {
+                    "text": "NON",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "A13 a encore en le ballon dans les mains lors d'une action de tir lorsque A4 et B4 commettent\nune double faute. Le ballon pénètre dans le panier. Le panier doit-il compter ? ",
+            "reponses": [
+                {
+                    "text": "OUI",
+                    "correct": true
+                },
+                {
+                    "text": "NON",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "A10 doit tirer 2LF + possession suite à une faute antisportive. Les joueurs prennent leur\nposition au rebond des LF par erreur. B4 récupère le ballon après le rebond du 2° LF raté, part en dribble et va marquer un panier. L'erreur est identifiée à ce moment. Elle est rectifiable et doit être corrigée. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Alors qu'il reste 15 secondes à jouer dans le 4° QT, A5 doit faire une remise en jeu dans sa\nzone arrière. Il commet une violation à la REJ. L'entraineur B demande un temps-mort. Après le TM, A6 demande un remplacement. Cette demande doit-elle être accordée ? ",
+            "reponses": [
+                {
+                    "text": "OUI",
+                    "correct": true
+                },
+                {
+                    "text": "NON",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Au 1er QT, B23 est sanctionné d'une U2. Au 3°QT, B23 est sanctionné d'une deuxième U2\nsur A5. Alors que l'arbitre annonce la faute, B23 insulte un joueur et l'autre arbitre lui inflige une faute technique. Le joueur B23 doit être disqualifié suite à ses 2 fautes antisportive. La faute technique doit être attribuée à l'entraineur et notée \"B1\". Le jeu reprendra avec 1 LF pour la FT pour n'importe quel joueur de l'équipe A + puis 2 LF pour A5 + possession pour l'équipe A. Les arbitres ont-ils bien appliqué le règlement ? ",
+            "reponses": [
+                {
+                    "text": "OUI",
+                    "correct": false
+                },
+                {
+                    "text": "NON",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Avec 19 secondes sur le chronomètre des tirs, A10 dribble dans sa zone arrière quand A4\nest sanctionnée d'une faute technique. N'importe quel joueur de l'équipe B doit tirer un LF et le jeu reprendra par une REJ pour l'équipe A au point le plus proche d'où était le ballon quand la FT a été sifflée. L'équipe A aura 3 secondes pour aller en zone avant. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Pendant l'entre-deux initial, l'intervalle se termine quand le ballon est touché légalement par\nl'un des sauteurs. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "\nA6 tire son dernier LF. Le ballon a touché l'anneau quand B9 essaie de le chasser en le touchant, mais celui-ci pénètre tout de même dans le panier. Cette action est légale et l'équipe A sera créditée d'un point au score. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "A4 est dans sa zone arrière. Il passe le ballon à A5 qui est dans sa zone avant. B10 saute\nde sa zone avant, attrape le ballon en l'air et passe le ballon à B15 qui est dans sa zone arrière. C'est une violation de retour en zone. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Pendant la remise en jeu A12 au 3°QT, B9 avance ses bras au-delà de la ligne de touche et\nbloque la passe de A12 alors qu'il reste 11 secondes sur le chronomètre des tirs. L'équipe B doit recevoir un avertissement et le jeu doit reprendre par une remise en jeu pour l'équipe A avec 14 secondes au chronomètre des tirs. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Le ballon est légalement tapé durant l'entre deux initial. A5 saute de sa zone avant, attrape\nle ballon en l'air et avant de retomber au sol, passe le ballon à A7 qui est dans sa zone arrière. Cette action est-elle légale ? ",
+            "reponses": [
+                {
+                    "text": "OUI",
+                    "correct": false
+                },
+                {
+                    "text": "NON",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "A5 tente un tir. Alors que l'action de tir de A5 n'est pas terminée, B10 commet une faute sur\nlui. Le ballon rebondit sur l'anneau avec encore la possibilité d'entrer dans le panier. B18 chasse le ballon. 2 points doivent être accordés à A5 + 1LF pour A5. La réparation est-elle juste ? ",
+            "reponses": [
+                {
+                    "text": "OUI",
+                    "correct": true
+                },
+                {
+                    "text": "NON",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "B10 tire juste avant le signal sonore de fin du 1°QT. Le panier est marqué et validé par\nl'arbitre. Juste après, A15 conteste de façon véhémente la décision de l'arbitre. Il le sanctionne d'une faute technique. Cette faute a-t-elle été commise pendant un intervalle de jeu ? ",
+            "reponses": [
+                {
+                    "text": "OUI",
+                    "correct": true
+                },
+                {
+                    "text": "NON",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "L'entraineur peut-il demander le remplacement d'un de ses joueurs à la table de marque ?\n",
+            "reponses": [
+                {
+                    "text": "OUI",
+                    "correct": false
+                },
+                {
+                    "text": "NON",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Un joueur qui commet deux fautes techniques doit être disqualifié. Il peut tout de même\nrester sur le banc de son équipe. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "A4 tire et il est contré par B3. Les deux joueurs reviennent au sol en ayant l’un et l’autre une\nou les deux mains fermement posées sur le ballon. Après ça, ils roulent pour arracher le ballon. Une violation d'entre deux doit être sifflée. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "\nA l'approche de la fin de la période du chronomètre des tirs, A10 manque sa passe à A23 (tous deux sont en zone avant) et le ballon roule dans la zone arrière de l'équipe A. Avant que B15 s'empare du contrôle du ballon, le chemin du panier étant libre pour lui, le signal du chronomètre des tirs retentit. Si B15 prend le contrôle clair et immédiat du ballon, le signal doit être ignoré et le jeu doit continuer. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "A16 dribble vers le panier lorsque B5 tombe en arrière sur le sol sans qu’un contact ne se\nsoit produit entre ces joueurs. Un avertissement a déjà été communiqué aux joueurs de l’équipe B. Ce genre de comportement est manifestement antisportif et empoisonne le bon déroulement de la rencontre. Une faute technique doit être sifflée à B5. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "A10 est dans son action de tir au panier quand B25 est sanctionné d’une faute sur A14.\nC’est la 3ème faute de l’équipe B dans le quart-temps. A10 termine son action de tir dans un mouvement continu et marque le panier. Les arbitres ont raison d'accorder le panier ? ",
+            "reponses": [
+                {
+                    "text": "OUI",
+                    "correct": true
+                },
+                {
+                    "text": "NON",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Pendant un tir au panier de A5, le ballon vient se coincer entre l’anneau et le panneau.\nL'équipe B bénéficie de la remise en jeu selon la procédure de possession alternée. Après la remise en jeu depuis la ligne de fond : ",
+            "reponses": [
+                {
+                    "text": "L’équipe B aura 24’’ sur le chronomètre des tirs",
+                    "correct": false
+                },
+                {
+                    "text": "L’équipe B aura 14’’ sur le chronomètre des tirs",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "B6 est sanctionné d’une faute sur A7 qui est en action de tir. C’est la 3ème faute de l’équipe\nB dans le quart-temps. Après la faute, A7 passe le ballon à A23. Le jeu doit reprendre par : ",
+            "reponses": [
+                {
+                    "text": "une remise en jeu pour l'équipe A au plus près de l’endroit où la faute s’est produite",
+                    "correct": false
+                },
+                {
+                    "text": "2L pour A7",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "L’équipe A doit bénéficier d’une remise en jeu avec 0.3 seconde affiché sur le chronomètre\nde jeu. A10 effectue une passe à A45, qui fait une claquette et marque le panier dans le temps imparti. ",
+            "reponses": [
+                {
+                    "text": "Le panier doit être accordé",
+                    "correct": false
+                },
+                {
+                    "text": "Le panier doit être refusé",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "\nAvec 57 secondes sur le chronomètre de jeu dans le 4ème quart-temps, A4 tente 2 lancers- francs. Pendant son 2ème lancer-franc, A4 met le pied sur la ligne de lancer-franc et une  violation est sifflée. Un temps- mort est accordé à l’équipe B. L’entraineur principal B décide que le jeu reprendra par une REJ en zone avant. ",
+            "reponses": [
+                {
+                    "text": "Le chronomètre des tirs doit afficher 14’’",
+                    "correct": false
+                },
+                {
+                    "text": "Le chronomètre des tirs doit afficher 24’’",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "A3 termine son dribble puis lance délibérément le ballon sur la jambe de B9. A3 reprend le\nballon puis commence un nouveau dribble. Il y a violation de reprise de dribble de A3 : le dribble de A3 était terminé et le ballon n’a pas été touché par B9, c’est le ballon qui a touché B9. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "\nB25 termine son dribble en attrapant le ballon à 2 mains. Dans son mouvement continu, B25 saute sur son pied droit, atterrit sur son pied droit puis sur son pied gauche et tente un tir. ",
+            "reponses": [
+                {
+                    "text": "C’est une violation de marcher",
+                    "correct": false
+                },
+                {
+                    "text": "Action légale",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Avec 5 secondes sur le chronomètre des tirs, A15 dribble quand B23 est sanctionné d’une\nfaute technique, puis, l'entraineur principal de l'équipe A est sanctionné d'une faute technique. Après annulation des réparations égales, le jeu doit reprendre par une remise en jeu de l'équipe A avec 5 secondes sur le chronomètre des tirs. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Après le dernier tir de lancer-franc de A8, le ballon rebondit sur l’anneau. Pendant la\nsituation de rebond, une double faute est sifflée à A2 et B24. Alors que le ballon a toujours une chance de rentrer dans le panier, il est touché par A11. Aucun point ne doit être accordé. Le jeu doit reprendre par une remise en jeu de possession alternée. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "A34 dribble vers le panier et entre en contact illégalement avec le torse de B12 qui est en\nposition légale de défense. Une faute offensive est sifflée à A34. Après que la faute de A34 a été sifflée, B12 tombe au sol et exagère le contact d’une façon théâtrale. La faute offensive de A34 doit rester valide. B12 doit recevoir un avertissement pour son attitude qui sera communiqué à l’entraîneur principal B et devra s’appliquer à l’ensemble des membres de l’équipe B. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "B13 et A14 tentent de s'emparer du rebond suite à un tir de A5. Le tir est manqué, A14\nprend le contrôle du ballon et il utilise ses coudes sans créer de contact avec B13 pour se dégager de la pression. A14 doit-il être sanctionné d'une faute antisportive ? ",
+            "reponses": [
+                {
+                    "text": "OUI",
+                    "correct": false
+                },
+                {
+                    "text": "NON",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "A10 fait une passe depuis sa zone de tir à 3 points et le ballon rentre directement dans le\npanier. ",
+            "reponses": [
+                {
+                    "text": "3 points sont accordés car A10 a lâché le ballon lors de sa passe depuis la zone de tir à",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "3 points\n",
+            "reponses": [
+                {
+                    "text": "2 points sont accordés car A10 car ce n'est pas un tir",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Suite à un panier encaissé, A10 effectue une passe à A4 qui prend le contrôle du ballon\ndans sa zone arrière. Il dribble pendant 7 secondes et en changeant de rythme, il dribble sur le pied de B9. Le jeu continue lorsque 14 secondes sont affichées au chronomètre des tirs. A4 est toujours en zone arrière. ",
+            "reponses": [
+                {
+                    "text": "L'arbitre de queue a raison de siffler une violation de 8 secondes à l'équipe A",
+                    "correct": false
+                },
+                {
+                    "text": "Le jeu doit continuer",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "B4 entame son action de tir lorsqu'il est victime d'une faute simple de A10. Juste après le\ncoup de sifflet, B4, toujours en action de tir, est victime d'un contact rude de A15. Le panier est manqué. La réparation de la situation est : ",
+            "reponses": [
+                {
+                    "text": "2 LF pour B4 + remise en jeu en zone avant avec 14 secondes",
+                    "correct": false
+                },
+                {
+                    "text": "4 LF pour B4 + remise en jeu en zone avant avec 14 secondes",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "\nB4 est sanctionné d'une faute technique au premier QT. Au 4° QT, B4 commet une faute antisportive sur A12. Le joueur B4 doit-il être sanctionné d'une faute disqualifiante ? ",
+            "reponses": [
+                {
+                    "text": "OUI",
+                    "correct": false
+                },
+                {
+                    "text": "NON",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "A23 n’a pas encore dribblé et se tient toujours arrêté quand il lance le ballon contre le\npanneau et le reprend à nouveau avant que n’importe quel autre joueur ait touché le ballon. Après avoir attrapé le ballon, A23 commence un dribble. ",
+            "reponses": [
+                {
+                    "text": "ACTION LÉGALE",
+                    "correct": false
+                },
+                {
+                    "text": "ACTION ILLÉGALE",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "L’équipe A contrôle le ballon dans sa zone avant avec 10 secondes sur le chronomètre des\ntirs lorsqu’une situation d’entre-deux se produit. Une remise en jeu de possession alternée est attribuée à l'équipe B. ",
+            "reponses": [
+                {
+                    "text": "L’équipe B doit avoir 14 secondes sur le chronomètre des tirs",
+                    "correct": false
+                },
+                {
+                    "text": "L’équipe B doit avoir 24 secondes sur le chronomètre des tirs",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "A15 dribble vers le panier et entre en contact avec le torse de B18 qui est en position légale\nde défense. Au même moment, B18 exagère un mouvement pour donner l’impression qu’il a subi une faute de A15. Les arbitres doivent donner un avertissement à B18 pour avoir simulé une faute, en lui montrant 2 fois le signal correspondant. Quand le jeu sera arrêté et que le ballon deviendra mort, l’avertissement devra être communiqué à son entraineur principal et il devra s’appliquer à chacun des membres de cette équipe. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Terminant sa contre-attaque, A8 a le ballon dans les mains dans son action de tir lorsque\nB12 provoque un contact sur le bras de A8 en essayant de contrer le ballon sur le tir. L'arbitre doit siffler : ",
+            "reponses": [
+                {
+                    "text": "FP B12",
+                    "correct": false
+                },
+                {
+                    "text": "FAS B12",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "A1 a commencé son action de tir au panier quand A2 commet une FT. A1 termine son action\nde tir dans un mouvement continu commencé avant que A2 commette la faute. Les arbitres ont raison de refuser le panier. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "A9 est dans son action de tir quand B7 est sanctionné d’une faute sur A24. C’est la 5 ème\nfaute de l’équipe B dans le quart-temps. A9 termine son action de tir dans un mouvement continu commencé avant que B7 commette la faute. Le panier, s’il est réussi, doit compter. A24 doit tenter 2 lancers-francs. Le jeu doit reprendre comme après tout dernier lancer-franc. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Lors d’un LF le ballon devient vivant quand l’arbitre pénètre dans la zone restrictive.\n",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "\nAlors que le ballon est disputé entre A8 et B9 le long de la ligne de touche, le joueur B9 dont les deux appuis sont à l’extérieur du terrain saute puis pose un pied dans le terrain, récupère le ballon et pose ensuite son second pied dans le terrain. Le joueur n’ayant pas les deux appuis dans le terrain au moment du contact avec le ballon il est considéré comme appartenant à l’extérieur du terrain. Il y a donc violation de sortie. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "A8 en zone arrière effectue une passe en direction d’A9 qui se trouve en zone avant, le\nballon est dévié par B6 dont les deux appuis se trouve en zone avant de l’équipe A et revient vers A8 qui se trouve à cheval sur la ligne médiane. A8 se saisit du ballon et revient en zone arrière sous la pression de B6. L’arbitre à raison de ne pas intervenir. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Le Crew Chief lance le ballon pour l’entre deux initial. Immédiatement après, le ballon est\ntouché par le sauteur A1 puis est attrapé par A1 avant qu’il ait touché un joueur non sauteur ou le sol. L’équipe B bénéficie d’une remise en jeu consécutive à la violation de A1. Après la remise en jeu, l’équipe A devra bénéficier de la première possession alternée depuis le point le plus proche de l’endroit où se produira la prochaine situation d’entre deux ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "L’équipe B a le droit à la remise en jeu selon la procédure de possession alternée. Un arbitre\net/ou le marqueur commet une erreur et le ballon est attribué par erreur à l’équipe A pour la remise en jeu. Sur cette remise en jeu B7 commet une violation de pied. La remise en jeu suivante aura lieu pour l’équipe B. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "En même temps que le signal du chronomètre de jeu retentit pour mettre fin au premier\nquart-temps, B1 commet une faute antisportive sur A1. L’équipe A bénéficie de la possession alternée pour débuter le 2ème quart-temps. A1 tente les 2 lancers-francs sans alignement de joueurs et sans plus aucun temps de jeu restant. Après les deux minutes d’intervalle de jeu, une remise en jeu par l’équipe A depuis la ligne médiane aura lieu sans que la flèche ne soit tournée. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "A1 saute avec le ballon et il est contré par B1. Les deux joueurs reviennent au sol en ayant\nl’un et l’autre une seule main fermement posée sur le ballon. Il y a entre deux. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Le Crew Chief lance le ballon pour l'entre-deux initial. Avant que le ballon ait atteint son point\nle plus haut, le sauteur A1 touche le ballon. A1 a commis une violation d'entre-deux. L'équipe B doit bénéficier d'une remise en jeu avec : ",
+            "reponses": [
+                {
+                    "text": "14 SECONDES",
+                    "correct": false
+                },
+                {
+                    "text": "24 SECONDES",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "\nA21 tente un tir à 3 points. Après que le ballon a quitté les mains de A1, le ballon rebondit au sol dans la zone de tir à 2 points. Le ballon pénètre ensuite dans le panier. Les arbitres décident d’accorder 2pts. Les arbitres ont pris la bonne décision. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "B23 commet une faute sur A10 qui est en action de tir à 3 points. Le ballon rebondit ensuite\nsur le terrain de jeu et pénètre dans le panier. Personne n’ayant touché le ballon celui ci est encore vivant et 3 pts seront accordés. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "A18 fait une passe longue depuis sa zone arrière et le ballon pénètre directement dans le\npanier, 3 points sont accordés par les arbitres. Cette décision est correcte. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "A24 tir depuis la zone de tir à 3 points. Le ballon est légalement touché dans sa phase\nmontante par B7 qui se trouve dans la zone de tir à 2 points. Le ballon continue sa trajectoire et pénètre dans le panier. Dans ce cas le statut du tir change et 2 points doivent être accordé à A24. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "A1 tire au panier, le ballon est complètement en dessous du niveau du cercle mais toujours\ndans le filet quand B7 cherche à le faire ressortir en le repoussant. Il s’agit d’un cas de FT. L’équipe A aura donc droit à 1LF puis la remise en jeu aura lieu en ligne de fond pour l’équipe B car le panier est marqué. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Avec 8min17s restant au chronomètre de jeu dans le 1er quart-temps, A1 bénéficie d’une\nremise en jeu. Alors qu’il détient le ballon, les mains d'A1 coupent le plan vertical de la ligne de touche et le ballon se trouve donc au-dessus de la zone intérieure du terrain de jeu. B1 frappe alors le ballon qui se trouve dans les mains d'A1 sans provoquer de contact physique avec A1. Dans ce cas l’arbitre doit siffler violation et donner un avertissement à B1. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Lors d’une remise en jeu il est permis, s’il n’y a pas de pression défensive, de donner le\nballon de main à main. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Après une sortie de balle, le joueur A1 qui effectue la remise en jeu et a reçu le ballon de la\npart de l’arbitre, décide de placer le ballon au sol pour laisser A2 effectuer cette remise en jeu. Cette action est légale. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "\nDans les deux dernières minutes aucun défenseur ne peut intervenir sur la remise en jeu même si l’arbitre oubli le geste conventionnel. Dans tous les cas une FT sera imputée automatiquement au défenseur. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Alors qu’il reste 45s à jouer A6 est victime d’une faute offensive de B8 dans la zone arrière\nde l’équipe B. L’entraîneur A demande un temps mort. A l’issue du temps mort l’entraîneur A demande à faire la remise en jeu dans sa zone arrière pour bénéficier des 24s. Cette demande est légale. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Avec 26 secondes sur le chronomètre de jeu dans le 4ème quart-temps, A1 a dribblé\npendant 6 secondes dans sa zone arrière, lorsque B1 frappe le ballon hors des limites du terrain. L’entraineur A demande un temps-mort. Après le temps-mort l’entraineur A décide de reprendre le jeu par une remise jeu depuis sa zone arrière, l’équipe A doit avoir ? ",
+            "reponses": [
+                {
+                    "text": "24 SECONDES",
+                    "correct": false
+                },
+                {
+                    "text": "18 SECONDES",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Alors qu’il reste 30s à jouer le joueur B7 commet une faute sur A9 dans la zone arrière de\nl’équipe A. A la fin du TM le coach A demande à effectuer la remise en jeu en zone avant ce que répercute l’arbitre. Le coach B demande alors un TM et remplace 3 joueurs. A la fin du TM B le coach A demande à nouveau un TM et décide de faire la remise en jeu en zone arrière pour bénéficier des 24s. La remise en jeu aura lieu en zone : ",
+            "reponses": [
+                {
+                    "text": "AVANT",
+                    "correct": false
+                },
+                {
+                    "text": "ARRIERE",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Avec 1’24\" restant au chronomètre de jeu dans le 4ème quart-temps, A1 dribble dans sa\nzone avant quand B1 tape le ballon et l’envoie hors du terrain dans la zone arrière de l'équipe A avec 17 secondes au chronomètre des tirs. A l’issue du temps mort de A l’entraineur demande une remise en jeu en zone avant. Le chronomètre des tirs affichera : ",
+            "reponses": [
+                {
+                    "text": "14 SECONDES",
+                    "correct": false
+                },
+                {
+                    "text": "17 SECONDES",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Au commencement du 2ème quart-temps, le joueur A1 effectue la remise en jeu dans le\nprolongement de la ligne médiane à l’opposé de la table de marque. A2 reçoit le ballon à cheval sur la ligne médiane et commet un marcher. La remise en jeu aura lieu : ",
+            "reponses": [
+                {
+                    "text": "EN ZONE ARRIERE DE L’EQUIPE B AVEC 24’’",
+                    "correct": false
+                },
+                {
+                    "text": "EN ZONE AVANT DE L’EQUIPE B AVEC 14’’",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "A12 commet une faute antisportive sur B18 pendant l’intervalle de jeu entre le 1er et le 2ème\nquart-temps. B1 doit tirer 2 lancers-francs sans alignement avant le début du 2ème quart-temps. Le jeu doit reprendre par une remise en jeu de l’équipe B depuis la ligne médiane. L’équipe B doit avoir 24 secondes au chronomètre des tirs mais la direction de la flèche de possession alternée doit rester inchangée. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "\nLe joueur A1 effectuant la remise en jeu passe le ballon à A2 mais A2 reçoit le ballon de l’autre côté du terrain en ayant un pied en contact avec la ligne de touche. Il y a violation et le jeu doit reprendre par une remise en jeu par l'équipe B depuis le point initial de la remise en jeu d’A1 car le ballon est sorti directement des limites du terrain. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Après qu’un adversaire a réussi un panier au cours du premier quart-temps, A8 a le ballon\npour faire la remise en jeu derrière la ligne de fond. A8 passe le ballon à A25 situé aussi derrière la ligne de fond. B12 étend ses bras au-delà de la ligne de fond et touche le ballon sur la trajectoire de la passe. Après l’avertissement donné à l’équipe B, la remise en jeu devra être recommencée et dans ce cas A25 pourra s’il le souhaite faire une passe à A8 qui se trouvera lui aussi derrière la ligne de fond. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Après qu’un adversaire a réussi un panier, A9 a le ballon pour faire la remise en jeu derrière\nla ligne de fond. A8 saute depuis l’extérieur du terrain derrière la ligne de fond et attrape le ballon en l’air sur la passe de A9 et repasse le ballon à A9 qui est resté hors du terrain, cette action est légale. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Avec 21 secondes sur le chronomètre des tirs dans le 3ème quart-temps, l’équipe A\nbénéficie d’une remise en jeu dans sa zone arrière. Alors que A1 qui effectue la remise en jeu a toujours le ballon dans les mains, B1 franchit la verticale de la ligne de touche avec la main. C’est une violation de B1 et un avertissement officiel. La remise en jeu par l’équipe A doit être recommencée. L’équipe A doit bénéficier d’une nouvelle remise en jeu. L’équipe A doit avoir : ",
+            "reponses": [
+                {
+                    "text": "21 SECONDES",
+                    "correct": false
+                },
+                {
+                    "text": "24 SECONDES",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Au commencement du deuxième quart-temps, depuis le prolongement de la ligne médiane à\nl’opposé de la table de marque, A1 après avoir eu le ballon à sa disposition fait un pas normal sur le côté et passe en zone avant. A1 passe alors le ballon en zone arrière où il est attrapé par A9. Les arbitres n’interviennent pas. C’est une bonne décision. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Au cours du deuxième quart-temps, après qu’A1 a réussi son dernier lancer-franc, B1 a le\nballon pour faire la remise en jeu derrière la ligne de fond. A2 commet une violation de pied sur la remise en jeu. L’arbitre siffle cette violation. Après avoir reçu à nouveau le ballon de la part de l’arbitre, B1 se déplace alors de 5m sur la ligne de fond en courant pour faire la passe à B6. Les arbitres sifflent violation. Les arbitres ont bien appliqué le règlement. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Après que le ballon a quitté les mains du Crew Chief lors de l’entre-deux mais avant que le\nballon soit légalement frappé, le sauteur A2 commet une violation. Le ballon est attribué à l’équipe B pour une remise en jeu. A cet instant l’entraîneur A envoie A9 sur la chaise afin qu’il demande un changement. A9 peut remplacer A2. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "\nA9 vient de marquer son dernier lancer franc, il reste 45s au chronomètre de jeu, A7 demande un remplacement. Les arbitres ont raison d’accorder le remplacement. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "A1 bénéficie de 2 lancers-francs. Le dernier LF est réussi et le ballon est dans les mains de\nB17 chargé de la remise en jeu quand l’entraîneur de l’équipe A demande un temps-mort. Celui ci peut lui être accordé car le ballon n’a pas encore été touché légalement sur le terrain. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Une occasion de remplacement vient juste de se terminer lorsque le remplaçant A6 se\nprécipite vers la table de marque en demandant à voix haute un remplacement. Le marqueur réagit et fait retentir le signal par erreur. L’arbitre siffle et interrompt le jeu. Le coup de sifflet de l’arbitre rend le remplacement possible et le changement doit être validé. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Un entraîneur adjoint peut demander un temps mort.\n",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Un temps mort prend fin lorsque le signal sonore de fin de temps mort retentit.\n",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Une faute technique est sifflée à A1. B6 demande alors un remplacement pour tenter le\nlancer-franc. Les arbitres acceptent que B6 tente le LF. Les arbitres ont raison. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Après l’intervalle de jeu de la mi-temps, l’équipe A, malgré les demandes répétées de\nl’arbitre, ne revient pas sur le terrain. Le début du 3ème quart-temps est retardé en conséquence. Après que l’équipe A est finalement revenue sur le terrain, un temps-mort sans avertissement doit être imputé à l’équipe A mais le jeu devra reprendre immédiatement. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Après son 1er TM l’équipe A ne revient pas sur le terrain malgré les demandes répétées de\nl’arbitre. Celui-ci lui impute un TM sans avertissement et le TM doit durer 1 minute. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Alors qu’A9 s’engage au panier B5 saute et s’accroche à l‘anneau pour contrer A9. Les\narbitres sanctionnent le joueur d’une FT. Les arbitres ont bien appliqué le règlement. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Alors que le ballon est en l’air sur le tir au panier de A1, A1 et B1 sont sanctionnés d'une\nfaute personnelle commise l'un sur l'autre à peu près au même moment. Le ballon ne rentre pas. La remise en jeu sera pour l’équipe A. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "\nLe dribbleur A1 est sanctionné d’une faute offensive sur B1. C’est la 5ème faute de l’équipe A dans le quart-temps. Approximativement en même temps, B1 est sanctionné d’une faute antisportive pour avoir frappé A1 d’un coup de coude. Dans ce cas il ne s’agit pas d’une double faute et la réparation sera de 2LF + possession pour l’équipe A. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "A1 est dans l’action de tir au panier lorsque B1 essaie de le déconcentrer en tapant\nlourdement du pied sur le sol. Le tir au panier est manqué. Dans ce cas une FT doit être infligée à B1. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Seul le capitaine en jeu peut poser une réclamation.\n",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Une équipe perd le match par défaut quand elle a moins de 2 joueurs sur le terrain.\n",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "L’équipe B arrive pour le dernier match de la journée avec un retard de 55 minutes dans la\nsalle, le délai des 40 minutes étant dépassé les deux arbitres encore présents doivent signifier le forfait de l’équipe et ne pas faire jouer la rencontre. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Alors que le chronomètre de jeu tournait, l’équipe A a joué avec 6 joueurs sur le terrain de\njeu. Cela est découvert sans qu’il n’y ait eu de faute ou de panier marqué et les arbitres sont intervenus très vite pour rectifier cette erreur. Dans ce cas aucune sanction ne doit être prise à l’encontre de l’entraîneur. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "En cas d’équipe ayant 6 joueurs sur le terrain la faute technique doit être imputé.\n",
+            "reponses": [
+                {
+                    "text": "AU JOUEUR EN TROP",
+                    "correct": false
+                },
+                {
+                    "text": "AU COACH",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Lors de l’entre-deux entre A7 et B12 qui commence le 1er quart-temps, le ballon est\nlégalement frappé lorsqu'A2 saute depuis sa zone avant, attrape le ballon alors qu’il est en l’air et retombe les deux pieds dans sa zone arrière. A ce moment il fait une passe à A8 qui marque deux points. Les arbitres doivent valider le panier. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Le joueur A11 effectuant une remise en jeu se tient à cheval sur la ligne médiane pour\ncommencer le deuxième quart-temps. A11 passe le ballon à A2 qui saute depuis sa zone avant, attrape le ballon en l’air et retombe au sol à cheval sur la ligne médiane. Les arbitres doivent siffler une violation de retour en zone. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "\nA1 est situé proche de la ligne médiane avec les deux pieds en zone arrière et tente de passer à A2 également proche de la ligne médiane avec les deux pieds en zone arrière. Le ballon rebondit en zone avant, avant de toucher A2. L'action est légale il n’y a pas de retour en zone mais le décompte des 8s se poursuit. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "A9 est situé en zone arrière et passe le ballon en zone avant à A7. Le ballon est dévié par\nun arbitre situé dans le terrain, les pieds à cheval sur la ligne médiane, puis le ballon est touché par A2 encore situé dans sa zone arrière. Dans ce cas le jeu doit se poursuivre tout comme le décompte des 8s. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": false
+                },
+                {
+                    "text": "FAUX",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "L'équipe A est en contrôle du ballon dans sa zone avant quand le ballon est touché\nsimultanément par A17 et B12 avant de retourner vers la zone arrière de l'équipe A où le ballon est ensuite touché par A23. L’arbitre n’intervient pas car l’action est légale. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Lors du dernier lancer-franc d’A1 et avant que le ballon touche l’anneau, B7 intervient sur le\nballon. Dans ce cas 1 point est accordé et une FT est infligée à B7. ",
+            "reponses": [
+                {
+                    "text": "VRAI",
+                    "correct": true
+                },
+                {
+                    "text": "FAUX",
+                    "correct": false
+                }
+            ]
         }
     ]
 }
