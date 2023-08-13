@@ -1736,15 +1736,15 @@
             ]
         },
         {
-            "question": "L’équipe B a le droit à la remise en jeu selon la procédure de possession alternée. Un arbitreet/ou le marqueur commet une erreur et le ballon est attribué par erreur à l’équipe A pour la remise en jeu. Sur cette remise en jeu B7 commet une violation de pied. La remise en jeu suivante aura lieu pour l’équipe B. ",
+            "question": "L’équipe B a le droit à la remise en jeu selon la procédure de possession alternée. Un arbitre et/ou le marqueur commet une erreur et le ballon est attribué par erreur à l’équipe A pour la remise en jeu. Sur cette remise en jeu B7 commet une violation de pied. La remise en jeu suivante aura lieu pour l’équipe B. ",
             "reponses": [
                 {
                     "text": "VRAI",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "FAUX",
-                    "correct": true
+                    "correct": false
                 }
             ]
         },
@@ -1974,11 +1974,11 @@
             "reponses": [
                 {
                     "text": "VRAI",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "FAUX",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
