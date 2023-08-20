@@ -102,7 +102,7 @@ class Question extends React.Component {
         let alreadyGuess = false;
         for (let i = 0; i < newQuestions.length; i++) {
             if (this.state.random === i && correct) {
-                newQuestions[i].score = 1;
+                newQuestions[i].score = 0;
                 alreadyGuess = newQuestions[i].alreadyGuess;
                 newQuestions[i].alreadyGuess = true;
             } else newQuestions[i].score = newQuestions[i].score + 2;
